@@ -2,4 +2,4 @@
 
 ### Proyecto Java / Java Application
 
-### Ejemplo básico de funciones y vector
+## Ejemplo básico de funciones (Vector)
